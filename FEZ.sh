@@ -1,5 +1,5 @@
 #Need to find a better way of doing this...
-
+#https://forums.mozilla.org/viewtopic.php?p=33582&sid=f87500f0267f160fb0389b26636bf131
 firefox\
     https://addons.mozilla.org/firefox/downloads/latest/tab-for-a-cause/\
     https://addons.mozilla.org/firefox/downloads/latest/ecosia-the-green-search/\
