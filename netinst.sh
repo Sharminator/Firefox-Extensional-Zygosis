@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Java
 sudo apt-get install openjdk-7-jdk openjdk-7-jre icedtea-netx --no-install-recommends
 
