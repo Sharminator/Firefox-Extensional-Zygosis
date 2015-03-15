@@ -1,7 +1,11 @@
 #!/bin/bash
 
-# Java
-sudo apt-get install openjdk-7-jdk openjdk-7-jre icedtea-netx --no-install-recommends
+# Installations
+sudo apt-get install\
+    openjdk-7-jdk openjdk-7-jre icedtea-netx\ # Java
+    iceweasel\ # Web Browser
+    vlc\ # Media Player
+    --no-install-recommends;
 
 ######## Firefox || Iceweasel || GNU IceCat ########
 # about:config (http://kb.mozillazine.org/User.js_file#Removing_user.js_entries)
