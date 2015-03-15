@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Installations
+######## Software Package Installations ########
 sudo apt-get install\
     openjdk-7-jdk openjdk-7-jre icedtea-netx\ # Java
     iceweasel\ # Web Browser
