@@ -4,7 +4,7 @@
 sudo apt-get update;
 sudo apt-get install\
     openjdk-7-jdk openjdk-7-jre icedtea-netx\ # Java
-    iceweasel\ # Web Browser & Local File Viewer (no need for VLC and the like)
+    iceweasel\ # Web Browser & File Viewer
     gimp inkscape blender\ # Graphical Editors (Rasta, Vector, 3D)
     --no-install-recommends\
 ;
