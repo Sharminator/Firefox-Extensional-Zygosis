@@ -17,3 +17,5 @@ user_pref("browser.startup.page", 3);
 // Use autoscrolling (middle click and drag to navigate the page)
 user_pref("general.autoScroll", true);
 ' > ~/.mozilla/firefox/$(ls ~/.mozilla/firefox/ | grep .default)/user.js; # The profile directory? What if (profiles>1)?
+
+# https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
